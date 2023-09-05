@@ -1,5 +1,5 @@
 Materi pembelajaran msib
- - html adalah sebuah kerangka website
+ - html adalah sebuah kerangka website bootsrap
  - css adalah untuk merapihkan dokumen dan mewarnai  dokument html
  - github adalah pembelajaran untuk dapat bekerjasama didalam projek
 - saya mnegedit baris ini
